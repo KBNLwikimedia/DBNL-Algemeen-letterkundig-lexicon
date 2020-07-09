@@ -2,7 +2,7 @@
 *Turning https://www.dbnl.org/tekst/dela012alge01_01/ into Linked Open Data using Wikidata*
 
 * Lijst van alle begrippen: https://kbnlwikimedia.github.io/DBNL-Algemeen-letterkundig-lexicon/all-begrippen.html (webrender of [this file](all-begrippen.html))
-** Let op verschil tussen 'begrip' en 'lemma' (nog uitwerken)
+* Let op verschil tussen 'begrip' en 'lemma' (nog uitwerken)
 * Reconcile sources (https://github.com/KBNLwikimedia/DBNL-Algemeen-letterkundig-lexicon/blob/master/20200708%20Sources%20ALL.csv) and authors of these sources with Wikidata so they can be used as references or 'P973/Described at' with the (future) Q-ids.
 
 1e zin uit een stuk tekst halen met regexp: https://stackoverflow.com/questions/46167065/extracting-first-sentence-from-a-paragraph
