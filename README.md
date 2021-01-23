@@ -1,7 +1,7 @@
 # DBNL-Algemeen-letterkundig-lexicon
 *Turning https://www.dbnl.org/tekst/dela012alge01_01/ into Linked Open Data using Wikidata*
 
-* Lijst van alle begrippen: https://kbnlwikimedia.github.io/DBNL-Algemeen-letterkundig-lexicon/all-begrippen.html (webrender of [this file](all-begrippen.html))
+* Lijst van alle begrippen: https://kbnlwikimedia.github.io/DBNL-Algemeen-letterkundig-lexicon/scrapemaps/all-begrippen.html (webrender of [this file](scrapemaps/all-begrippen.html))
 * Let op verschil tussen 'begrip' en 'lemma' (nog uitwerken)
 * Reconcile sources (https://github.com/KBNLwikimedia/DBNL-Algemeen-letterkundig-lexicon/blob/master/20200708%20Sources%20ALL.csv) and authors of these sources with Wikidata so they can be used as references or 'P973/Described at' with the (future) Q-ids.
 
