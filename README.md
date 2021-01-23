@@ -1,5 +1,7 @@
 ![DBNL banner](banners/AlgemeenLetterkundigLexicon_BannerWikimedia_NL.jpg)
 # DBNL-Algemeen-letterkundig-lexicon
+https://www.wikidata.org/wiki/Wikidata:WikiProject_Algemeen_letterkundig_lexicon
+
 *Turning https://www.dbnl.org/tekst/dela012alge01_01/ into Linked Open Data using Wikidata*
 
 * Lijst van alle begrippen: https://kbnlwikimedia.github.io/DBNL-Algemeen-letterkundig-lexicon/scrapemaps/all-begrippen.html (webrender of [this file](scrapemaps/all-begrippen.html))
