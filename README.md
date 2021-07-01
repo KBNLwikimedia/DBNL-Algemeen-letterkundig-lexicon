@@ -11,6 +11,11 @@ https://www.wikidata.org/wiki/Wikidata:WikiProject_Algemeen_letterkundig_lexicon
 1e zin uit een stuk tekst halen met regexp: https://stackoverflow.com/questions/46167065/extracting-first-sentence-from-a-paragraph
 *Regular Expressions can definitely be used. The following uses a simple but typical definition of "end of sentence": a ., ! or ? followed by either 1) at least one space then a capital letter, or 2) the end of the text.*
 
-Wikidata
+## Wikidata
 * <a href="https://www.wikidata.org/wiki/Q96870923"> Algemeen Letterkundig Lexicon (Q96870923)</a>
 * <a href="https://www.wikidata.org/wiki/Q97097245"> Digital Algemeen Letterkundig Lexicon (Q97097245) </a>
+
+## Wikipedia NL
+* https://nl.wikipedia.org/wiki/Wikipedia:GLAM/Koninklijke_Bibliotheek_en_Nationaal_Archief/ALL (i.v.m. stageopdracht Calvin Keutgen april-augustus 2021)
+* https://nl.wikipedia.org/wiki/Sjabloon:Bronvermelding_ALL
+* https://nl.wikipedia.org/wiki/Gebruiker:CalvinKeutgen/Lijst_van_letterkundige_begrippen <sub>(voor script die deze pagina genereert, zie [scripts/image-downloader/export-Lijst-van-letterkundige-begrippen](scripts/image-downloader/export-Lijst-van-letterkundige-begrippen))</sub>
